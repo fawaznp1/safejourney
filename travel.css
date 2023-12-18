@@ -1,0 +1,108 @@
+.home1{
+    background-image: url("./images/landscape/home.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.navbar
+{
+    background-color: rgb(97, 209, 244) !important;
+}
+.about
+{
+    background-color: rgb(234, 230, 6);
+}
+/* .aboutex
+{
+    color: #de2525;
+} */
+
+.tajex
+{
+    background-color:#1feffa ;
+
+}
+/* .tajex:hover{
+    transform: scale(1.1);
+    transition: ease-in;
+} */
+.card:hover
+{
+    transform: scale(1.1);
+    transition: ease-in;  
+}
+.about{
+    background-color: #2baef5;
+}
+.munex
+{
+    background-color: #10de77c4;
+}
+/* .munex:hover{
+    transform: scale(1.1);
+    transition: ease-in;
+} */
+
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+.icons
+{
+    background-color: rgb(238, 146, 9);
+}
+.fa-brands
+{
+    font-size: 35px;
+    margin-right: 15px;
+
+
+
+}
+.fa-brands:hover{
+    color:#de2525 ;
+    
+}
+a{
+    text-decoration: none !important ;
+    color: green;
+}
+.logoname{
+    font-family:'Times New Roman', Times, serif;
+    color:#ef1c7b;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.brand
+{
+    font-size: 400%;
+}
+.brandex
+{
+    font-size: 100%;
+
+}
+.form
+{
+    background-color: rgb(97, 209, 244);
+}
+.submit
+{
+    color: orangered;
+}
+.a{
+    color: #fafcfc;
+}
+.footer
+{
+    background-color: rgb(97, 209, 244);
+}
+
